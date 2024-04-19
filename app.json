@@ -8,7 +8,7 @@
             "required": true
         },        
         "MONGO_URL": {
-            "description": "mongo db url here",
+            "description": "MongoDb url here",
             "required": true
         },
         "API_ID": {
